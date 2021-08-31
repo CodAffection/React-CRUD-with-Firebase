@@ -1,68 +1,29 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-CRUD-with-Firebase
 
-## Available Scripts
+ ## How it works ?
+ 
+ :tv: Video tutorial on this same topic  
+ Url : https://youtu.be/pI4438IHBYY
+ 
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=pI4438IHBYY
+" target="_blank"><img src="http://img.youtube.com/vi/pI4438IHBYY/0.jpg" 
+alt="Video Tutorial for Complete React CRUD with Asp.Net Core Web API" width="500" height="400" border="10" /></a>
 
-In the project directory, you can run:
 
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+| :bar_chart:               |  List of Tutorials   |   | :moneybag:           | Support Us                           |
+|--------------------------:|:---------------------|---|---------------------:|:-------------------------------------|
+| Angular                   |http://bit.ly/2KQN9xF |   |Paypal                | https://goo.gl/bPcyXW                |
+| Asp.Net Core              |http://bit.ly/30fPDMg |   |Amazon   Affiliate    | https://geni.us/JDzpE                |
+| React                     |http://bit.ly/325temF |   |
+| Python                    |http://bit.ly/2ws4utg |   | :point_right:        | Follow Us                            |
+| Node.js                   |https://goo.gl/viJcFs |   |Website               |http://www.codaffection.com          |
+| Asp.Net MVC               |https://goo.gl/gvjUJ7 |   |YouTube               |https://www.youtube.com/codaffection  |
+| Flutter                   |https://bit.ly/3ggmmJz|   |Facebook              |https://www.facebook.com/codaffection |
+| Web API                   |https://goo.gl/itVayJ |   |Twitter               |https://twitter.com/CodAffection      |
+| MEAN Stack                |https://goo.gl/YJPPAH |   |
+| C# Tutorial               |https://goo.gl/s1zJxo |   |
+| Asp.Net WebForm           |https://goo.gl/GXC2aJ |   |
+| C# WinForm                |https://goo.gl/vHS9Hd |   |
+| MS SQL                    |https://goo.gl/MLYS9e |   |
+| Crystal Report            |https://goo.gl/5Vou7t |   |
+| CG Exercises in C Program |https://goo.gl/qEWJCs |   |
